@@ -1,0 +1,15 @@
+% This experiment consisted into fix the first and the second rounds using the first and second rounds of the path https://bitbucket.org/tiicrypto/chacha_cryptanalysis/src/master/diff_trails/chacha_512_256/single_key/round_4/result_512_1.txt, Also the window size used was 2. Also, we added the constraint that probability could be less than 218.
+
+
+% Generated FlatZinc statistics:
+%%%mzn-stat: paths=0
+%%%mzn-stat: flatIntVars=10439
+%%%mzn-stat: flatIntConstraints=35330
+%%%mzn-stat: method="minimize"
+%%%mzn-stat: flatTime=4.39319
+%%%mzn-stat-end
+
+=====UNSATISFIABLE=====
+% time elapsed: 157832.48 s
+%%%mzn-stat: nSolutions=0
+%%%mzn-stat-end
