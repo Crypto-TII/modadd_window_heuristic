@@ -1,0 +1,21 @@
+% Generated FlatZinc statistics:
+%%%mzn-stat: paths=0
+%%%mzn-stat: flatBoolVars=762
+%%%mzn-stat: flatIntVars=388
+%%%mzn-stat: flatBoolConstraints=3
+%%%mzn-stat: flatIntConstraints=767
+%%%mzn-stat: evaluatedReifiedConstraints=759
+%%%mzn-stat: method="minimize"
+%%%mzn-stat: flatTime=0.32452
+%%%mzn-stat-end
+
+speck_k128_p64_o64_r1, and window_size=-1
+carries modadd_0_1:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+cipher_output_0_6_input:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Probability: 0
+% time elapsed: 0.38 s
+----------
+==========
+% time elapsed: 0.38 s
+%%%mzn-stat: nSolutions=1
+%%%mzn-stat-end

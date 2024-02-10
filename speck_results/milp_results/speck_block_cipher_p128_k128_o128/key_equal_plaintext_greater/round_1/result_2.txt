@@ -1,0 +1,34 @@
+% Generated FlatZinc statistics:
+%%%mzn-stat: paths=0
+%%%mzn-stat: flatBoolVars=1591
+%%%mzn-stat: flatIntVars=642
+%%%mzn-stat: flatBoolConstraints=3
+%%%mzn-stat: flatIntConstraints=1722
+%%%mzn-stat: evaluatedReifiedConstraints=1588
+%%%mzn-stat: method="minimize"
+%%%mzn-stat: flatTime=0.219427
+%%%mzn-stat-end
+
+%%%mzn-stat: objective=0
+%%%mzn-stat: objectiveBound=0
+%%%mzn-stat: boolVariables=381
+%%%mzn-stat: failures=0
+%%%mzn-stat: propagations=1333
+%%%mzn-stat: solveTime=0.112834
+speck_k128_p128_o128_r1, and window_size=2
+carries modadd_0_1:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Plaintext:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+cipher_output_0_6_input:[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+Probability: 0
+% time elapsed: 0.44 s
+----------
+==========
+% time elapsed: 0.44 s
+%%%mzn-stat: objective=0
+%%%mzn-stat: objectiveBound=0
+%%%mzn-stat: boolVariables=381
+%%%mzn-stat: failures=0
+%%%mzn-stat: propagations=1334
+%%%mzn-stat: solveTime=0.130331
+%%%mzn-stat: nSolutions=1
+%%%mzn-stat-end
